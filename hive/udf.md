@@ -1,5 +1,5 @@
 ##UDF
-###Before Writing UDF, internal Function is also UDF
+###
 ```
 0: jdbc:hive2://hadoop01:10000> show functions;
 ```
