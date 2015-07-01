@@ -5,4 +5,4 @@
 ## 교재 Download
 ### [hadoop-통합.pdf](http://nas.banyan.kr/download/shinsegae-inc/hadoop-통합.pdf)
 ### [hadoop-2.x.pdf](http://nas.banyan.kr/download/shinsegae-inc/hadoop-2.x.pdf)
-### [hadoop-운영.pdf](http://http://nas.banyan.kr/download/shinsegae-inc/hadoop-운영.pdf)
+### [hadoop-운영.pdf](http://nas.banyan.kr/download/shinsegae-inc/hadoop-운영.pdf)
